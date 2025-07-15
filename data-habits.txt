@@ -1,0 +1,4 @@
+Drink water:1
+Read a book:0
+2:0
+Go for a walk:0
